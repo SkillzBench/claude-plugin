@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "skillzbench": {
+      "type": "http",
+      "url": "https://mcp.skillzbench.com/mcp"
+    }
+  }
+}

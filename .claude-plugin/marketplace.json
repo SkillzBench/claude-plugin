@@ -1,0 +1,21 @@
+{
+  "name": "skillzbench",
+  "owner": {
+    "name": "SkillzBench (AIQ Labs)",
+    "email": "team@skillzbench.com"
+  },
+  "metadata": {
+    "description": "Benchmarked, security-scanned agent skills for Claude Code, served through one MCP connector."
+  },
+  "plugins": [
+    {
+      "name": "skillzbench",
+      "source": "./plugins/skillzbench",
+      "description": "Connect Claude Code to SkillzBench: 1,000+ security-scanned agent skills, benchmarked with vs. without the skill. Switch skills on at skillzbench.com and Claude loads the right one when a task needs it.",
+      "version": "1.0.0",
+      "homepage": "https://skillzbench.com/agents",
+      "category": "productivity",
+      "keywords": ["skills", "agent-skills", "mcp", "benchmarks", "security"]
+    }
+  ]
+}

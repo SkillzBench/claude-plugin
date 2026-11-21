@@ -1,0 +1,13 @@
+{
+  "name": "skillzbench",
+  "version": "1.0.0",
+  "description": "1,000+ security-scanned, benchmark-tested agent skills through one MCP connector. Pick skills at skillzbench.com; Claude loads the right one when a task calls for it.",
+  "author": {
+    "name": "SkillzBench (AIQ Labs)",
+    "email": "team@skillzbench.com",
+    "url": "https://skillzbench.com"
+  },
+  "homepage": "https://skillzbench.com/agents",
+  "license": "MIT",
+  "keywords": ["skills", "agent-skills", "mcp", "benchmarks", "security"]
+}
