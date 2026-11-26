@@ -11,6 +11,9 @@ Then run `/mcp`, pick **skillzbench**, choose **Authenticate**, and sign in (fre
 [skillzbench.com](https://skillzbench.com/skills). Claude sees a short list of what you switched on and loads a skill
 only when a task calls for it.
 
+On Claude Code 2.1.331 or later (Pro, Max or Ultra plan), the skills you switch on also appear as native skills:
+type `/` and look for `skillzbench:<skill>`. This uses Skills over MCP, in public beta.
+
 **No account yet?** Try the read-only starter set first:
 
 ```bash
